@@ -4,7 +4,7 @@
   "version": "1",
   "description": "first extension",
 
- "permissions": ["bookmarks"]
+ "permissions": ["bookmarks"],
  "browser_action":{
   "default_title": "Profile",
  "default_icon": "images/icon.png",
