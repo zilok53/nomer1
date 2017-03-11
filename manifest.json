@@ -2,6 +2,12 @@
   "manidest_version": 2,
   "name": "add_bookmarks",
   "version": "1",
+  "description": "first extension",
 
  "permissions": ["bookmarks"]
+ "browser_action":{
+  "default_title": "Profile",
+ "default_icon": "images/icon.png",
+ "defalut_popup": "popup.html"
+  }
  }
